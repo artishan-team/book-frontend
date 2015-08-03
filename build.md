@@ -6,5 +6,4 @@
 
 
 - webpack
-- jspm
 
