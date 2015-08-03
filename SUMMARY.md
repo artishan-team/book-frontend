@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Build
+* [Build](build.md)
    * Grunt
 
